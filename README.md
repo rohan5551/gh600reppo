@@ -1,5 +1,5 @@
 # gh600reppo
-repo to learn about the gh600 exam 
+repo to learn about the gh600 exam testing the git hub actions check 
 
 ## Hello world
 
